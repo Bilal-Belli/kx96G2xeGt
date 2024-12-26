@@ -1,16 +1,24 @@
-# application_tp1
+# Name
+My first flutter application (for academic project)
 
-my first flutter application
+## Demo images
 
-## Getting Started
+<div align="center">
+   <img  width="150" src="https://github.com/user-attachments/assets/e44ca4c8-0c33-472f-80d0-71c61326ce35">
+</div>
 
-This project is a starting point for a Flutter application.
+<div align="center">
+   <img  width="150" src="https://github.com/user-attachments/assets/001dd645-dc45-4fa1-8ded-aae6e59991a3">
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+   <img  width="150" src="https://github.com/user-attachments/assets/60ad570e-7452-45cd-bd07-52b56d74b31e">
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div align="center">
+   <img  width="150" src="https://github.com/user-attachments/assets/b3693b0a-4460-4911-b10d-e60ce43540c1">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+   <img  width="150" src="https://github.com/user-attachments/assets/ce3022de-ee59-42d8-b357-ba97bc0cbaf3">
+</div>
