@@ -1,0 +1,17 @@
+[
+  {
+    "id": "C101",
+    "name": "Mathematics",
+    "description": "An introductory course to algebra and calculus."
+  },
+  {
+    "id": "C102",
+    "name": "Physics",
+    "description": "Fundamentals of classical mechanics and thermodynamics."
+  },
+  {
+    "id": "C103",
+    "name": "Programming",
+    "description": "Learn the basics of Python programming."
+  }
+]
